@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div width="100%" align="center">
+<div width="100%" align="center" text-align="center">
   <h1>Korchak Rodion</h1>
 </div>
 
