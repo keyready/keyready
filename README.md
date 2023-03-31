@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### Junior+ Frontend-developer
+- [ ] React
+- [ ] TypeScript
+- [ ] Redux Toolkit
+- [ ] Storybook
+- [ ] Loki | Jest
+
+<div align="center">
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif" width="100%" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyready&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
