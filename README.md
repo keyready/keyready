@@ -1,5 +1,8 @@
 ## Hi there 👋
-<div width="100%" align="center">Korchak Rodion</div>
+<div width="100%" align="center">
+  <h1>Korchak Rodion</h1>
+</div>
+
 ### Junior+ Frontend-developer
 - [ ] React
 - [ ] TypeScript
