@@ -1,6 +1,17 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ## Hi there 👋
-<div width="100%" align="center" text-align="center">
-  <h1>Korchak Rodion</h1>
+<div width="100%" align="center">
+  <h1 margin="0">Korchak Rodion</h1>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://t.me/keyrea_dy" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>    
+  </a>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 ### Junior+ Frontend-developer
@@ -9,10 +20,6 @@
 - [ ] Redux Toolkit
 - [ ] Storybook
 - [ ] Loki | Jest
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif" width="100" />
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyready&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
