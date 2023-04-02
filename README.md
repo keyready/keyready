@@ -22,4 +22,11 @@
 - [ ] Storybook
 - [ ] Loki | Jest
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px">
+    <img src="./images/more-hack.png" width="400" alt="Telegram Badge"/>
+    <img src="./images/more-hack-2.png" width="400" alt="Telegram Badge"/>
+    <img src="./images/alfabank-hack.png" width="400" alt="Telegram Badge"/>
+    <img src="./images/delivery.png" width="400" alt="Telegram Badge"/>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyready&theme=dark&)](https://github.com/anuraghazra/github-readme-stats)  
