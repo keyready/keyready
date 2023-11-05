@@ -74,6 +74,10 @@
             </a>
         </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keyredy&theme=dracula&border_radius=5.5&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br />
+<br />
+<p width="100%" align="center" margin="20px 0">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=keyready&theme=react&hide_border=true&border_radius=25" alt="GitHub Streak" />
+</p>
 <p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=keyready&show_icons=true&locale=en&theme=transparent" alt="keyready" /></p>
 <p><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keyready&show_icons=true&locale=en&layout=compact&theme=transparent" alt="keyready" /></p>
