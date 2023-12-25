@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyready" alt="keyready" /></a> </p>
 
-- 🔭 I’m currently working on **DASHBOARD-62 && EliteTHouse**
+- 🔭 I’m currently on holidays 🏝️
 
 - 🌱 I’m currently learning **React Typescript**
 
