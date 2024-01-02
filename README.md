@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Typescript**
 
-- 📫 How to reach me **t.me/keyrea_dy**
+- 📫 Write me now **t.me/keyrea_dy**
 
 <p align="left">
 </p>
