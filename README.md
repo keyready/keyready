@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Friends Club** 🏝️
 
-- 🌱 I’m currently learning **React Typescript**
+- 🌱 I’m currently learning **React**
 
 - 📫 Write me now **@keyrea_dy**!
 
