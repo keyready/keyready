@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="center">Привет! Я - Родион Корчак</h1>
+<h1 align="center">Привет! Я Родион Корчак</h1>
 <h3 align="center">A junior+ frontend developer from St. Petersburg</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyready" alt="keyready" /></a> </p>
